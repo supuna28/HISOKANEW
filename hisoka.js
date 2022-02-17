@@ -965,13 +965,13 @@ break
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Contact Owner',
-                                    id: 'owner'
+                                    displayText: 'OOKLA TEST',
+                                    id: 'speedtest'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                    displayText: 'JOIN',
+                                    id: 'gc'
                                 }
                             }]
                       fatihgans = fs.readFileSync('./lib/hisoka.jpg')
@@ -1005,13 +1005,13 @@ break
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Contact Owner',
-                                    id: 'owner'
+                                    displayText: 'OOKLA TEST',
+                                    id: 'speedtest'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                    displayText: 'JOIN',
+                                    id: 'gc'
                                 }
                             }]
                       fatihgans = fs.readFileSync('./lib/hisoka.jpg')
