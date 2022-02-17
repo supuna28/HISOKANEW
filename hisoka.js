@@ -2340,13 +2340,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Contact Owner',
-                                    id: 'owner'
+                                    displayText: 'ookla speed test',
+                                    id: 'speedtest'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                    displayText: 'BOTKINGDOM',
+                                    id: 'gc'
                                 }
                             }]
                         }
