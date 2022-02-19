@@ -1307,7 +1307,7 @@ break
                 hisoka.sendMessage(m.chat, { audio: { url: media[0].url }, mimetype: 'audio/mp4', fileName: `${title}.mp3` }, { quoted: m })
             }
             break
-            case 'ytv': case 'ytvideo': {
+            case 'ytvideo': {
                 if (!text) throw `Example : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 360p`
 		let { aiovideodl } = require('./lib/scraper')
                 let result = await aiovideodl(isUrl(text)[0])
