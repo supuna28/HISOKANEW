@@ -1036,7 +1036,7 @@ break
                             }, {
                                 quickReplyButton: {
                                     displayText: 'OOKLA TEST',
-                                    id: 'speedtest'
+                                    id: '.speedtest'
                                 }  
                             }, {
                                 quickReplyButton: {
@@ -2371,7 +2371,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             }, {
                                 quickReplyButton: {
                                     displayText: 'ookla speed test',
-                                    id: 'speedtest'
+                                    id: '.speedtest'
                                 }  
                             }, {
                                 quickReplyButton: {
